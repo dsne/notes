@@ -2,17 +2,17 @@
 ---
 
 ## 전체 조회
-~~~
+~~~sql
 db.getCollection('collection_name').find({})
 ~~~
 
 ## 조건 조회
-~~~
+~~~sql
 db.getCollection('collection_name').find({
   'field_name1': 'value1', 'field_name2': 'value2', ...
 })
 ~~~
-~~~
+~~~sql
 db.getCollection('collection_name').find({
   'field_name1': {
     '$operator': 'value1', ...

@@ -2,7 +2,7 @@
 ---
 
 ## reload
-~~~
+~~~js
 $(document).ready(() => {
   let table = $('#example').DataTable()
 

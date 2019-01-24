@@ -7,12 +7,12 @@ npm i -s multer
 ~~~
 
 ## include
-~~~
+~~~js
 const multer = require('multer')
 ~~~
 
 ## init
-~~~
+~~~js
 const upload = multer({
   dest: '/uploads',
   limits: {
@@ -24,7 +24,7 @@ const upload = multer({
 - limits: 용량제한
 
 ## 적용
-~~~
+~~~js
 app.post('/', upload.any(), (req, res) => {
   console.log(req.body)
   console.log(req.files)

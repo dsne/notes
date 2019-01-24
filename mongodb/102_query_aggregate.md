@@ -2,12 +2,12 @@
 ---
 
 ## 집계 조회
-~~~
+~~~sql
 db.getCollection('collection_name').aggregate([ ... ])
 ~~~
 
 ## 집계 전체 조회
-~~~
+~~~sql
 db.getCollection('collection_name').aggregation([ {
   $group: {
     _id: '$field_name1', aggregation_field_name: {
@@ -19,7 +19,7 @@ db.getCollection('collection_name').aggregation([ {
 
 ## 집계 조건 조회
 - count는 $sum: 1로 대체
-~~~
+~~~sql
 db.getCollection('collection_name').aggregation([ {
   $match: {
     $or: [ field_name1: <value> ... ] }

@@ -2,7 +2,7 @@
 ---
 
 ## Atom에서 시작
-Packages - GitHub - Toggle Git Tab
+- Packages - GitHub - Toggle Git Tab
 
 ## 초기 설정
 커맨드 또는 터미널 환경에서 프로젝트 경로로 이동

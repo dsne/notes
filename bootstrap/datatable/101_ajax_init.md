@@ -2,7 +2,7 @@
 ---
 
 ## 기본
-~~~
+~~~js
 $(document).ready(() => {
   $('#example').DataTable({
     ajax: 'data.json'
@@ -11,7 +11,7 @@ $(document).ready(() => {
 ~~~
 
 ## 속성 설정
-~~~
+~~~js
 $(document).ready(() => {
   $('#example').DataTable({
     ajax: {
