@@ -1,4 +1,4 @@
-# 패키지
+# Atom 패키지
 
 ## project-manager
 - 설정
