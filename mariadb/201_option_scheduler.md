@@ -1,5 +1,4 @@
 # 스케쥴러
----
 
 ## 환경변수 조회
 - show variables like 'event%';

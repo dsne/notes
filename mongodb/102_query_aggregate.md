@@ -1,5 +1,4 @@
 # aggregate command
----
 
 ## 집계 조회
 ~~~sql

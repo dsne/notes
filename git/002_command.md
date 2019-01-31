@@ -1,5 +1,4 @@
 # Git 명령어
----
 
 # 정보 확인
 - git config -l

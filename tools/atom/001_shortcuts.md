@@ -1,5 +1,4 @@
 # Atom Shortcuts
----
 
 ## Editor
 - 미리보기: `Ctrl + Shift + M`

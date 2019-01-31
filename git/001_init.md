@@ -1,5 +1,4 @@
 # Git 설정
----
 
 ## Atom에서 시작
 - Packages - GitHub - Toggle Git Tab

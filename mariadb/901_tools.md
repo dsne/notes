@@ -1,5 +1,4 @@
 # MariaDB 접속 툴 목록
----
 
 ## HeidiSQL
 - <https://www.heidisql.com/>

@@ -1,5 +1,4 @@
 # 속성 검색
----
 
 ## object
 - object.name

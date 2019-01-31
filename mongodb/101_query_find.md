@@ -1,5 +1,4 @@
 # find command
----
 
 ## 전체 조회
 ~~~sql

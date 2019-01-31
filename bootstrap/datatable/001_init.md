@@ -1,5 +1,4 @@
 # Bootstrap DataTable 시작
----
 
 ## 기본
 ~~~js
